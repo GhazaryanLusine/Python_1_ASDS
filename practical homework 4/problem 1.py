@@ -14,7 +14,7 @@ x = np.arange(180)
 plt.plot(x,gray_hist)
 plt.title('Grayscale Histogram')
 plt.xlabel('Bins')
-plt.ylabel('# of pixels')
+plt.ylabel('N of pixels')
 
 plt.show()
 
